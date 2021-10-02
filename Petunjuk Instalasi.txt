@@ -1,0 +1,28 @@
+Cara install 
+1. Gunakan PHP versi 7.1 atau di atasnya
+2. Ekstrak file zip ke dalam htdoct
+3. Buat database dengan nama siakad_project
+4. import database nya dari file siakad_project.sql yang ada di dalam folder project
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+User
+
+1. Admin
+Username : admin
+Password : admin
+
+2. Kepsek
+Username : kepsek
+Password : 123
+
+3. Siswa
+Username : 2017010001
+Password : 123
+
+Username : 2017010012
+Password : 123
+
+Username : 2017010004
+Password : 123
